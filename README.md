@@ -1,2 +1,1 @@
-# Homeautomation
-https://HomeAutomationorg@dev.azure.com/HomeAutomationorg/Homeautomation/_git/Homeautomation
+ https://dev.azure.com/your-org-name/your-project-name/_git/repo-name
